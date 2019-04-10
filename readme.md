@@ -1,3 +1,19 @@
+### Local Setup
+$ git clone https://github.com/ldramowicz/lonely-hearts-dating.git <br>
+$ cd tic-tac-toe\
+$ npm install
+
+### Run Locally
+$ npm start\
+navigate to **http://localhost:3000** in browser
+
+### Run Tests
+$ npm test
+
+### Build
+$ npm run build
+
+
 Objective
 =========
 A fictional client, Lonely Hearts, wants to create a dating service for its customers. Create a page that can query the Lonely Hearts database and display a list of potential matches.
