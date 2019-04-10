@@ -1,4 +1,4 @@
-Lonely Hearts Dating Swervice
+Lonely Hearts Dating Service
 =========
 
 ### Local Setup
