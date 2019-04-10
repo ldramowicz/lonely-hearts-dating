@@ -1,6 +1,6 @@
 ### Local Setup
 $ git clone https://github.com/ldramowicz/lonely-hearts-dating.git <br>
-$ cd tic-tac-toe\
+$ cd lonely-hearts-dating\
 $ npm install
 
 ### Run Locally
