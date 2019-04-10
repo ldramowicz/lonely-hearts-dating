@@ -1,3 +1,6 @@
+Lonely Hearts Dating Swervice
+=========
+
 ### Local Setup
 $ git clone https://github.com/ldramowicz/lonely-hearts-dating.git <br>
 $ cd lonely-hearts-dating\
